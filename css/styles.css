@@ -5,6 +5,8 @@
 body{
     background-image: url(/img/ratchet.jpg);
     background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
 }
 h1{
     text-align: center;
